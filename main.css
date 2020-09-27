@@ -1,0 +1,28 @@
+
+.box{
+    width: 42px;
+    height:42px;
+    background-color: orange;
+    margin: 4px;
+    float: left;
+    border-radius: 6px;
+}
+#show-box{
+    width: 150px;
+    height: 150px;
+    /* padding: 2px; */
+    margin: auto;
+}
+.btn{
+    /* 字体颜色 */
+    color: orange;
+    width: 150px;
+    /* 设置文字居中 */
+    text-align: center;
+    /* 设置圆角边框、实心，白色 */
+    border: 1px solid orange;
+    border-radius: 6px;
+    /* 让盒子居中并设置边框 */
+    margin: 2px auto;
+    cursor: pointer;/* 光标为一只手 */
+}
